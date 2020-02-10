@@ -20,7 +20,7 @@ body{
     width: 20%;
     box-sizing: border-box;
     padding: 8px;
-    color: white;
+    color: black;
     
 }
 .slika {
@@ -47,3 +47,14 @@ body{
     }
 }
 
+.image-title {
+    text-align: center;
+    background-color: gray;
+    border: 1px solid #777777;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.ppadding {
+    padding: 8px !important;
+}
